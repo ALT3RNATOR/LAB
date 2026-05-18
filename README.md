@@ -1,2 +1,2 @@
 # LAB
-Crack your lab practicles
+Crack your lab practicles.
